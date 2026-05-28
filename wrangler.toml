@@ -1,0 +1,8 @@
+name = "cf-workers-github"
+main = "_worker.js"
+compatibility_date = "2024-12-01"
+workers_dev = true
+
+# Vars: TOKEN can be set in dashboard if you want auth.
+# [vars]
+# TOKEN = ""
